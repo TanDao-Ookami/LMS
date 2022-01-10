@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  background-image: url(./img/login-05\ 2.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  font-family: Mulish;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  line-height: 60.24px;
+  margin-right: 120px;
+  color: #373839;
+  ;
+  
+}
+
+.form-group {
+  padding: 12px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+.btnLogin {
+  margin-top: 33px;
+  font-size: 18px;
+  color: #FFFFFF;
+  background-color: #F17F21;
+  width: 390px;
+  height: 52px;
+  border-radius: 8px;
+  border-style: none;
+}
+
+label {
+  color: #373839;
+  padding: 4px 0px 0px 0px;
+  width: 130px;
+  height: 23px;
+  font-size: 18px;
+  
+}
+
+.form-inner {
+  margin: 259px 0px 0px 850px;
+}
+
+.IPemail{
+  width: 355px;
+  height: 32px;
+  padding-left: 30px;
+  font-size: 20px;
+  background-image: url(./img/Union.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-position-x: 5px;
+  border-radius: 8px;
+  
+}
+
+.IPpassword{
+  width: 355px;
+  height: 32px;
+  padding-left: 30px;
+  font-size: 20px;
+  background-image: url(./img/Vector.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-position-x: 5px;
+  border-radius: 8px;
+}
+.forgot {
+  margin-top: 7px;
+  margin-right: 129px;
+  float: right;
+  color: #FF7506
+  ;
+}
